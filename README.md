@@ -1,6 +1,6 @@
 # heightmapper
 
-http://tangrams.github.io/heightmapper
+http://ailove-lab.github.io/heightmapper
 
 Heightmapper is an interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications. By default, it "auto-exposes" the display so that the highest visible elevation in the current view will be white, and the lowest will be black.
 
